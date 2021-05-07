@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GloRo2021
+- 👋 Hi, I’m @GloriaR
 - 🌱 I’m currently learning Python ...
 
 <!---
